@@ -1,5 +1,5 @@
 # Nematode-Extruder
 WORMS!!!!
-![image](https://github.com/Okanoa/Nematode-Extruder/assets/50339762/9ac05def-8d11-4cce-9629-7785edfd0503)
-![image](https://github.com/Okanoa/Nematode-Extruder/assets/50339762/50028add-212c-4603-82eb-528a9ea8e862)
 
+![image](https://github.com/Okanoa/Nematode-Extruder/assets/50339762/cc6039c0-0b2e-45a0-b334-4329cd6a9950)
+![image](https://github.com/Okanoa/Nematode-Extruder/assets/50339762/4968487e-5302-49ce-bc53-847ed54722bb)
