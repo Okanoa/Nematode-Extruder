@@ -1,8 +1,10 @@
 # Nematode-Extruder
 WORMS!!!!
 
-Big thank to Shaunuss for wormgear + k1 concept and general inspiration for makin this thingy.
+Big thank to Shaunuss for wormgear + k1 concept and general inspiration/knowledge for makin this thingy.
+
 thank to stackingdeezlayers for looking and tinkering with my shitty cad 
+
 also thank to burgo_enemy_of_thelettuce for SLM knowledge and such
 
 
