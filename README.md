@@ -20,7 +20,9 @@ also thank to burgo_enemy_of_thelettuce for SLM knowledge and such
 | 1x | creality k1 extruder gears | |
 | 1x | SW0.5-R1 or SW0.5-R2 | |
 
-R1 worm provides higher 30:1 ratio, R2 worm provides lower 15:1 ratio.
+R1 worm provides higher 30:1 ratio, Single start will likely wear faster but provide more extursion force.
+
+R2 worm provides lower 15:1 ratio, Double start likely has less wear but also provides a little less extrusion force.
 
 
 
