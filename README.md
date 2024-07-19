@@ -2,6 +2,7 @@
 WORMS!!!!
 
 Big thank to Shaunuss for wormgear + k1 concept and general inspiration/knowledge for makin this thingy.
+- Heavily derived from https://github.com/Shaunuss/Lowboi-Mk4
 
 thank to stackingdeezlayers for looking and tinkering with my shitty cad 
 
