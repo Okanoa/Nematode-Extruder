@@ -1,5 +1,5 @@
 # Nematode-Extruder
-## Not gonna publish or upload the files for this kek uh look at shaunuss's thingy :) He is gonna work on a SLM version support em 👍
+## Not gonna publish or upload the files for this lol uh look at shaunuss's thingy :) He is gonna work on a SLM version support em 👍
 (if you really want this dm me on discord "okuhno", thanks)
 
 WORMS!!!!
